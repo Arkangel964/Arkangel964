@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Arkangel964
-- 👀 I’m interested in GAMING GAMING
-- 🌱 I’m currently learning GAMING
-- 📫 How to reach me: you dont
+Hey, I'm Ark, or Will if you prefer a real actual name. I'm currently at BCIT for computer systems, so most of what gets posted here will be assignment code and stuff. If you need to reach me for some reason, your best bet is my discord, @Ark#7964.
+
+Eventually, I want to get into game development, and when I work on private projects related to that I'll probably put them up here too.
+
+Have fun poking around my code! (Most of it is probably not very good, but that's the way it goes when you're learning!)
 
 <!---
 Arkangel964/Arkangel964 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
