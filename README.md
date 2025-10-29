@@ -1,8 +1,8 @@
-Hey, I'm Ark, or Will if you prefer a real actual name. I'm currently a BCIT Computer Science student, and most of what I've put up here is assignment code, though occasionally I use it for personal project work as well. If you need to reach me for some reason, your best bet is my discord, @Arkangel964
+Hey, I'm Ark, or Will if you prefer a real name. I'm currently a BCIT Computer Science student, so most of the work up here is either assignment code, or my personal project work as well. If you need to reach me for some reason, your best bet is my discord, @Arkangel964, or my email, willowhitfield@outlook.com.
 
-I'm getting into game development, and when I work on private projects related to that I'll probably put them up here too.
+I'm really passionate about game development, and my favourite projects that I've worked on have all been game projects. Check the pinned repositories to see my favorite ones (out of the public repositories, of course.)
 
-Have fun poking around my code! (Some of it is a little rough, but that's the way it goes when you're learning!)
+Have fun poking around my code!
 
 <!---
 Arkangel964/Arkangel964 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
